@@ -1,0 +1,6 @@
+C:\Users\lts\source\repos\uyulama-32\uyulama-32\obj\Debug\uyulama-32.csproj.CoreCompileInputs.cache
+C:\Users\lts\source\repos\uyulama-32\uyulama-32\bin\Debug\uyulama-32.exe.config
+C:\Users\lts\source\repos\uyulama-32\uyulama-32\bin\Debug\uyulama-32.exe
+C:\Users\lts\source\repos\uyulama-32\uyulama-32\bin\Debug\uyulama-32.pdb
+C:\Users\lts\source\repos\uyulama-32\uyulama-32\obj\Debug\uyulama-32.exe
+C:\Users\lts\source\repos\uyulama-32\uyulama-32\obj\Debug\uyulama-32.pdb
