@@ -1,0 +1,6 @@
+C:\Users\lts\source\repos\uygulama-20\uygulama-20\obj\Debug\uygulama-20.csproj.CoreCompileInputs.cache
+C:\Users\lts\source\repos\uygulama-20\uygulama-20\bin\Debug\uygulama-20.exe.config
+C:\Users\lts\source\repos\uygulama-20\uygulama-20\bin\Debug\uygulama-20.exe
+C:\Users\lts\source\repos\uygulama-20\uygulama-20\bin\Debug\uygulama-20.pdb
+C:\Users\lts\source\repos\uygulama-20\uygulama-20\obj\Debug\uygulama-20.exe
+C:\Users\lts\source\repos\uygulama-20\uygulama-20\obj\Debug\uygulama-20.pdb
