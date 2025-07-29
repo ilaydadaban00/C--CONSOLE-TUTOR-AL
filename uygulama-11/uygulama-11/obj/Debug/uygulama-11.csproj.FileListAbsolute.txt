@@ -1,0 +1,6 @@
+C:\Users\lts\source\repos\uygulama-11\uygulama-11\bin\Debug\uygulama-11.exe.config
+C:\Users\lts\source\repos\uygulama-11\uygulama-11\bin\Debug\uygulama-11.exe
+C:\Users\lts\source\repos\uygulama-11\uygulama-11\bin\Debug\uygulama-11.pdb
+C:\Users\lts\source\repos\uygulama-11\uygulama-11\obj\Debug\uygulama-11.csproj.CoreCompileInputs.cache
+C:\Users\lts\source\repos\uygulama-11\uygulama-11\obj\Debug\uygulama-11.exe
+C:\Users\lts\source\repos\uygulama-11\uygulama-11\obj\Debug\uygulama-11.pdb
