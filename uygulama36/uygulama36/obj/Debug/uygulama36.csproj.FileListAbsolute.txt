@@ -1,0 +1,7 @@
+C:\Users\lts\source\repos\uygulama36\uygulama36\bin\Debug\uygulama36.exe.config
+C:\Users\lts\source\repos\uygulama36\uygulama36\bin\Debug\uygulama36.exe
+C:\Users\lts\source\repos\uygulama36\uygulama36\bin\Debug\uygulama36.pdb
+C:\Users\lts\source\repos\uygulama36\uygulama36\obj\Debug\uygulama36.csproj.AssemblyReference.cache
+C:\Users\lts\source\repos\uygulama36\uygulama36\obj\Debug\uygulama36.csproj.CoreCompileInputs.cache
+C:\Users\lts\source\repos\uygulama36\uygulama36\obj\Debug\uygulama36.exe
+C:\Users\lts\source\repos\uygulama36\uygulama36\obj\Debug\uygulama36.pdb
