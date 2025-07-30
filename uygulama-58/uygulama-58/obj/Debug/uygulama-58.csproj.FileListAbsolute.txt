@@ -1,0 +1,7 @@
+C:\Users\lts\source\repos\uygulama-58\uygulama-58\bin\Debug\uygulama-58.exe.config
+C:\Users\lts\source\repos\uygulama-58\uygulama-58\bin\Debug\uygulama-58.exe
+C:\Users\lts\source\repos\uygulama-58\uygulama-58\bin\Debug\uygulama-58.pdb
+C:\Users\lts\source\repos\uygulama-58\uygulama-58\obj\Debug\uygulama-58.csproj.AssemblyReference.cache
+C:\Users\lts\source\repos\uygulama-58\uygulama-58\obj\Debug\uygulama-58.csproj.CoreCompileInputs.cache
+C:\Users\lts\source\repos\uygulama-58\uygulama-58\obj\Debug\uygulama-58.exe
+C:\Users\lts\source\repos\uygulama-58\uygulama-58\obj\Debug\uygulama-58.pdb
