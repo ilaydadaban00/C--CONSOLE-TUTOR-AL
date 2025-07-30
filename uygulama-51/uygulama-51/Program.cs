@@ -11,19 +11,19 @@ namespace uygulama_51
         static void Main(string[] args)
         {
 
-            string[] isimler = new string[4];
+            double[] sayilar = new double[4];
 
-            isimler[0] = "ilayda";
+            sayilar[0] = 3.74;
 
-            isimler[1] = "melek";
+            sayilar[1] = 5.4;
 
-            isimler[2] = "rukiye";
+            sayilar[2] = 8.4;
 
-            isimler[3] = "dilan";
+            sayilar[3] = 4.9;
 
-            for (int i=0; i < isimler.Length; i++)
+            for (int i=0; i < sayilar.Length; i++)
             {
-                Console.WriteLine(isimler[i]);
+                Console.WriteLine(sayilar[i]);
             }
             Console.ReadLine();
         }
